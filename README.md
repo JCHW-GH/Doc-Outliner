@@ -20,9 +20,11 @@ Pictures
 Turn this:
 
 ![image2](https://github.com/user-attachments/assets/f133b180-3905-4e09-8610-1224cb43e744)
+
 Into this:
 
 ![image1](https://github.com/user-attachments/assets/8f216338-6988-4384-9130-1eca09c708cb)
+
 Or THIS!
 
 ![image3](https://github.com/user-attachments/assets/abe62792-2f84-48b2-9b84-6a6d4d2587c6)
